@@ -11,3 +11,5 @@ It contains some additional id's to follow the test guidelines. <br>
 Created with:
 * HTML5
 * CSS
+
+<img src="https://github.com/loveisgala/Technical-Documentation-Page/blob/master/images/Capture.png?raw=true" alt="screenshot">
