@@ -2,7 +2,7 @@
 
 ## General info
 This project is based on an exercise from https://www.freecodecamp.org/ 'Responsive Web Design Certification' section. <br>
-The thematic is a 'technicak documentation page' and its about JavaScript!. <br>
+The thematic is a 'technical documentation page' and its about JavaScript!. <br>
 It contains some additional id's to follow the test guidelines. <br>
 <br>
 
